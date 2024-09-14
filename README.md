@@ -36,7 +36,7 @@ python run_train_sum.py --diff_steps 500 --model_arch transformer_sum --lr 1e-5 
 python batch_decode_sum.py [checkpoint_path] -1.0 ema
 ```
 
-Our code will be open-sourced here upon the acceptance of the manuscript.
+All of our code will be open-sourced here upon the acceptance of the manuscript.
 
 ### Citation
 If you find our work inspiring or use our codebase in your research, please consider giving a star ⭐ and a citation.
